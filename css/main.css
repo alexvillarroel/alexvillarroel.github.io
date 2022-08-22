@@ -90,18 +90,33 @@ img.me{
     border: 10px solid #54b3d6;
 }
 main{
-    display: flex;
+    display: block;
+    width: 100%;
 }
 article{
-    flex: 2;
+    display: flex;
+    float: left;
     vertical-align: middle;
     text-align: center;
+    width: 50%;
 }
 aside{
-    flex:1;
-    margin-left: 10px;
-    margin-right: 5%;
-    padding: 1%;
+    display: flex;
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+aside h2{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+aside h3{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+aside h4{
+    margin-left: 20%;
+    margin-right: 20%;
 }
 article h1{
     margin-top:15%;
@@ -162,7 +177,6 @@ img.rigth{
 .panels ul li{
     margin-left: -30px;
     list-style: none;
-
 }
 .panels ul li a{
     list-style: none;
@@ -247,7 +261,7 @@ i {
 
 #PNG {
     margin-left: 20%;
-    margin-top: 500px;
+    margin-top: 60%;
     margin-right: 5%;
 }
 #PNG h1{

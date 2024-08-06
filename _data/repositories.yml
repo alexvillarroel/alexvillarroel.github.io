@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alexvillarroel
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - alexvillarroel/StochasticSlipGenerator
+  - alexvillarroel/1d_heat_diffusion 
+  -  alexvillarroel/Maximum_Magnitude

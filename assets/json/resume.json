@@ -14,7 +14,6 @@
     }
   },
   "work": [
-
     {
       "name": "Universidad de Concepción",
       "position": "Teaching Assistant, Fluid Mechanics",
@@ -60,7 +59,17 @@
       "studyType": "Master's",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": ""
+      "summary": "",
+      "courses": [
+        "Solid Earth Geophysics",
+        "Seismological Data Analysis",
+        "Applied Seismology and Exploration",
+        "Introduction to Geophysical Prospecting",
+        "Tsunami: Theory and Modeling",
+        "Observational Geophysics Applied to Solid Earth",
+        "Topic: Localization of Local Events in Juan Fernández with Single Station Method",
+        "SEISAN Workshop"
+      ]
     },
     {
       "institution": "Universidad de Concepción",
@@ -104,7 +113,10 @@
     {
       "name": "Programming Experience",
       "level": "Advanced",
-      "keywords": ["Python", "MATLAB"]
+      "keywords": [
+        "Python",
+        "MATLAB"
+      ]
     },
     {
       "name": "Rapid Learning Curve",
@@ -137,40 +149,6 @@
       "title": "Top in Geophysics Ranking",
       "date": "2023-01-01",
       "summary": "Ranked #1 in Geophysics at Universidad de Concepción."
-    }
-  ],
-  "courses": [
-    {
-      "name": "Solid Earth Geophysics",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Seismological Data Analysis",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Applied Seismology and Exploration",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Introduction to Geophysical Prospecting",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Tsunami: Theory and Modeling",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Observational Geophysics Applied to Solid Earth",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "Topic: Localization of Local Events in Juan Fernández with Single Station Method",
-      "level": "Advanced","keywords": []
-    },
-    {
-      "name": "SEISAN Workshop",
-      "level": "Advanced","keywords": []
     }
   ]
 }

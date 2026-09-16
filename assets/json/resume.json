@@ -1,16 +1,13 @@
 {
   "basics": {
     "name": "Alex Villarroel Carrasco",
-    "label": "Geophysicist",
+    "label": "Geophysicist, PhD candidate in Geology",
     "email": "alexvillarroel.ca@gmail.com",
-    "phone": "+569 3074 7717",
     "url": "https://www.linkedin.com/in/alexvillarroelcarrasco/",
     "summary": "Geophysicist with solid theoretical knowledge in seismology and geodesy, and technical skills in programming and modeling (Python, Matlab). Strong problem-solving abilities, self-management, adaptability, and a strong commitment to disaster risk reduction.",
     "location": {
-      "address": "Psje Oseas 4483",
-      "city": "Maipú",
-      "countryCode": "CL",
-      "region": "Santiago"
+      "city": "Santiago",
+      "countryCode": "CL"
     }
   },
   "work": [
@@ -53,12 +50,21 @@
   ],
   "education": [
     {
+      "institution": "Universidad de Chile",
+      "location": "Santiago, Chile",
+      "area": "Geology",
+      "studyType": "PhD candidate",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": ""
+    },
+    {
       "institution": "Universidad de Concepción",
       "location": "Concepción, Chile",
       "area": "Geophysics",
       "studyType": "Master's",
       "startDate": "2023-01-01",
-      "endDate": "Present",
+      "endDate": "2026-03-31",
       "summary": "",
       "courses": [
         "Solid Earth Geophysics",

@@ -153,15 +153,19 @@
   "awards": [
     {
       "title": "ANID Doctoral Scholarship (Beca ANID Doctorado)",
-      "awarder": "Agencia Nacional de Investigación y Desarrollo (ANID), Chile"
-    },
-    {
-      "title": "Beca EPEC",
-      "awarder": "Universidad de Chile"
+      "awarder": "Agencia Nacional de Investigación y Desarrollo (ANID), Chile",
+      "date": "2026-01-01"
     },
     {
       "title": "SSA Travel Grant",
-      "awarder": "Seismological Society of America (SSA)"
+      "awarder": "Seismological Society of America (SSA)",
+      "date": "2026-01-01",
+      "summary": "Travel grant to attend Advances in Earthquake Science 2026 (AES 2026), Gandhinagar, India."
+    },
+    {
+      "title": "Beca EPEC",
+      "awarder": "Universidad de Chile",
+      "date": "2025-01-01"
     },
     {
       "title": "Top in Geophysics Ranking",

@@ -6,5 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - alexvillarroel/StochasticSlipGenerator
   - alexvillarroel/KDEllipsPy
-  - alexvillarroel/1d_heat_diffusion 
   -  alexvillarroel/Maximum_Magnitude

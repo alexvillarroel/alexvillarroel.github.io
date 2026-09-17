@@ -173,5 +173,30 @@
         "Tsunami modeling"
       ]
     }
+  ],
+  "publications": [
+    {
+      "name": "Unusual Rupture Characteristics of the 2025 Mw 6.4 Intraplate Intermediate-Depth Earthquake in North Central Chile",
+      "title": "Unusual Rupture Characteristics of the 2025 Mw 6.4 Intraplate Intermediate-Depth Earthquake in North Central Chile",
+      "publisher": "Advances in Earthquake Science 2026 (AES 2026), Institute of Seismological Research, Gandhinagar, India",
+      "releaseDate": "2026-01-23",
+      "url": "https://www.aes2026.com/",
+      "summary": "Oral presentation."
+    },
+    {
+      "name": "Complex Stress State in the Copiapó Double Seismic Zone, North-Central Chile",
+      "title": "Complex Stress State in the Copiapó Double Seismic Zone, North-Central Chile",
+      "publisher": "Seismological Research Letters",
+      "releaseDate": "2026-07-16",
+      "url": "https://doi.org/10.1785/0220250424",
+      "summary": "Pastén-Araya, F., Novoa, M. J., Pastene, R., Villarroel, A., Maksymowicz, A., Ruiz, S., Potin, B., & Peña, M."
+    },
+    {
+      "name": "Generación estocástica de terremotos tsunamigénicos y su impacto en la deriva de contenedores en el puerto de Valparaíso",
+      "title": "Generación estocástica de terremotos tsunamigénicos y su impacto en la deriva de contenedores en el puerto de Valparaíso",
+      "publisher": "Master's thesis, Universidad de Concepción",
+      "releaseDate": "2026-03-31",
+      "url": "https://repositorio.udec.cl/server/api/core/bitstreams/ab928741-1663-42bd-945d-8558f8851b46/content"
+    }
   ]
 }

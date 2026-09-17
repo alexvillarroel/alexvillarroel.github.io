@@ -156,5 +156,22 @@
       "date": "2023-01-01",
       "summary": "Ranked #1 in Geophysics at Universidad de Concepción."
     }
+  ],
+  "interests": [
+    {
+      "name": "Earthquake rupture dynamics",
+      "keywords": [
+        "Kinematic inversion",
+        "Dynamic inversion",
+        "Source characterization"
+      ]
+    },
+    {
+      "name": "Seismic and tsunami modeling",
+      "keywords": [
+        "Seismic modeling",
+        "Tsunami modeling"
+      ]
+    }
   ]
 }

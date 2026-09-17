@@ -25,7 +25,12 @@ I am a geophysicist with a passion for programming and seismology. I am currentl
 
 I completed my master’s degree in geophysics at the University of Concepción, where my thesis developed a framework for the stochastic generation of tsunamigenic earthquakes and studied its impact on container drift in the port of Valparaíso.
 
-🔭 I’m currently working on Solid Earth topics and Tsunami processes.<br />
-🌱 I’m currently learning Flutter and GIS.
+🔭 My PhD research focuses on the analysis of earthquake rupture dynamics in Chile.
+
+🌋 Research interests:
+
+- Seismic modeling and earthquake source characterization
+- Kinematic and dynamic rupture inversion
+- Tsunami modeling
 
 In this web page is the content of my research, courses and assistantships that I have provided to the university.
